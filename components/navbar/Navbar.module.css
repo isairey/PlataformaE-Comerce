@@ -1,0 +1,39 @@
+.navbar_main {
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(11px);
+    -webkit-backdrop-filter: blur(11px);
+    border-radius: 10px;
+}
+
+/* on hovering on  product_text, the .dropdown_menu must be .dropdown_menu.active   */
+
+.rotated {
+    transform: rotate(90deg);
+    animation: rotate 0.3s linear forwards;
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(180deg);
+    }
+}
+
+.unrotated {
+    transform: rotate(300deg);
+    animation: unrotate 0.3s linear forwards;
+}
+
+@keyframes unrotate {
+    0% {
+        transform: rotate(180deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
