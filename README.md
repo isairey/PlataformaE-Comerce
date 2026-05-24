@@ -181,7 +181,7 @@ La tienda está enfocada en vender:
 # 📂 Estructura del proyecto
 
 ```bash
-ShopCoders/
+PlataformaE-Comerce/
 │
 ├── public/                  # Recursos públicos
 ├── src/
@@ -217,7 +217,7 @@ ShopCoders/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/IAmTamal/ShopCoders.git
+git clone https://github.com/isairey/PlataformaE-Comerce.git
 ```
 
 ---
@@ -225,7 +225,7 @@ git clone https://github.com/IAmTamal/ShopCoders.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd ShopCoders
+cd PlataformaE-Comerce
 ```
 
 ---
@@ -345,17 +345,7 @@ git push origin feature/nueva-funcionalidad
 
 ---
 
-# 💚 Agradecimientos
 
-<div align="center">
-
-Gracias a todos los contributors y developers que apoyan este proyecto 🚀
-
-Open Source for the win ❤️
-
-</div>
-
----
 
 # 👨‍💻 Desarrollador
 
